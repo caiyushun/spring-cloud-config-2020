@@ -1,1 +1,2 @@
-config: "dev branch springcloud-config-2020  profie:dev"
+config:
+  info: "dev branch springcloud-config-2020  profie:dev"
